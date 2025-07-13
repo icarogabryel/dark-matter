@@ -1,0 +1,3 @@
+code = [inst_field];
+inst_field = {inst};
+inst = r_type (* | i_type | s_type | j_type *);
