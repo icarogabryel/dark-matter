@@ -1,3 +1,8 @@
 code = [inst_field];
-inst_field = {inst};
+inst_field = ".inst", {inst};
 inst = r_type (* | i_type | s_type | j_type *);
+r_type = mnemonic, REG, REG, REG;
+mnemonic = ? list of possible mnemonics ?;
+
+(* regex *)
+REG = ? $[0-15] ?;
