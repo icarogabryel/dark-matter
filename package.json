@@ -14,7 +14,7 @@
       {
         "label": "Dark Matter",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-matter-color-theme.json"
+        "path": "./themes/dark-matter.json"
       }
     ]
   }
