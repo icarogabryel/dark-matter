@@ -1,11 +1,35 @@
+// General background color: "#151516"
+// Inactive background color: "#121314"
+// Active selection background color: "#ffffff1f"
+
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Dark Matter",
   "colors": {
-    "editor.background": "#263238",
-    "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "list.activeSelectionBackground": "#ffffff1f",
+    "list.inactiveSelectionBackground": "#ffffff1f",
+
+    "quickInput.background": "#151516",
+
+    // General background
+    "titleBar.activeBackground": "#151516",
+    "titleBar.inactiveBackground": "#121314",
+
+    // Editor
+    "editor.background": "#151516",
+
+    // Activity bar
+    "activityBar.background": "#151516",
+
+    // Side bar
+    "sideBar.background": "#151516",
+
+    // Painel
+    "panel.background": "#151516",
+
+    // Status bar
+    "statusBar.background": "#151516",
+    "statusBar.inactiveBackground": "#121314"
   },
   "tokenColors": [
     {
