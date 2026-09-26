@@ -1,0 +1,21 @@
+{
+  "name": "dark-matter",
+  "displayName": "Dark Matter",
+  "description": "A dark and modern color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Matter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-matter-color-theme.json"
+      }
+    ]
+  }
+}
