@@ -39,8 +39,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#59a359"
       }
     },
     {
@@ -80,9 +79,10 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#4a91d8"
       }
     },
+    // Flow control
     {
       "name": "Operator, Misc",
       "scope": [
@@ -100,7 +100,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#d379cb"
       }
     },
     {
@@ -124,7 +124,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#e9eb95"
       }
     },
     {
@@ -174,7 +174,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#eb9f7c"
       }
     },
     {
@@ -190,7 +190,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#4EC9B0"
       }
     },
     {
@@ -337,7 +337,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#00b5fd"
       }
     },
     {
